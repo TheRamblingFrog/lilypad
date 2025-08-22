@@ -1,2 +1,2 @@
 # lilypad
-A basic repository to learn with GitHub.
+A basic repository to learn GitHub.
